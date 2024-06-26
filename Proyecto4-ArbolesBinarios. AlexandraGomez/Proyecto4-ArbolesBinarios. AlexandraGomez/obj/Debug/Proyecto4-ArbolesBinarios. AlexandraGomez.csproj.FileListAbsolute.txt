@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\bin\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.exe.config
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\bin\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.exe
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\bin\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.pdb
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4-ArbolesBinarios. AlexandraGomez.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.Escenario1.resources
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.Form1.resources
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.Menu.resources
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.Properties.Resources.resources
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4-ArbolesBinarios. AlexandraGomez.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4-ArbolesBinarios. AlexandraGomez.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.exe
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.pdb
+C:\Users\USER\source\repos\Proyecto4-ArbolesBinarios. AlexandraGomez\Proyecto4-ArbolesBinarios. AlexandraGomez\obj\Debug\Proyecto4_ArbolesBinarios.AlexandraGomez.Escenario2.resources
